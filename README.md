@@ -1,12 +1,12 @@
 ## Bootcamp Session Resources
 ___
 ### Day 1
-#### Resource Folder: Coming Soon
+#### Resource Folder: None
 #### Session Record: <https://youtu.be/hYd34itNzY8>
 ___
 ### Day 2
-#### Resource Folder: Coming Soon
-#### Session Record: Coming Soon
+#### Resource Folder: None
+#### Session Record: <https://youtu.be/XSPuT-W-9V8>
 ___
 ### Day 3
 #### Resource Folder: Coming Soon
